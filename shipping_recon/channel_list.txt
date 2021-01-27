@@ -1,0 +1,93 @@
+channel - Amazon, channel_url - https://www.amazon.in/
+channel - Flipkart, channel_url - https://www.flipkart.com/
+channel - GraysOnline, channel_url - https://www.graysonline.com/
+channel - Clubfactory, channel_url - https://www.clubfactory.com/
+channel - Limeroad, channel_url - https://www.limeroad.com/
+channel - Mesho, channel_url - http://www.mesho.com/
+channel - PayTM, channel_url - https://paytmmall.com/
+channel - TataCliq, channel_url - https://www.tatacliq.com/
+channel - Voonik, channel_url - https://www.voonik.com/
+channel - BestBuy, channel_url - https://www.bestbuy.com/
+channel - Bonanza, channel_url - https://www.bonanza.com/
+channel - Amazon, channel_url - https://www.amazon.com.au
+channel - Amazon, channel_url - https://www.amazon.com.br
+channel - Amazon, channel_url - https://www.amazon.ca
+channel - Amazon, channel_url - https://www.amazon.cn
+channel - Amazon, channel_url - https://www.amazon.fr
+channel - Amazon, channel_url - https://www.amazon.de
+channel - Amazon, channel_url - https://www.amazon.co.jp
+channel - Amazon, channel_url - https://www.amazon.com.mx
+channel - Amazon, channel_url - https://www.amazon.co.uk
+channel - Etsy, channel_url - https://www.etsy.com/
+channel - Etsy, channel_url - https://www.etsy.com/
+channel - Etsy, channel_url - https://www.etsy.com/
+channel - eBay, channel_url - https://www.ebay.com.au/
+channel - eBay, channel_url - https://www.ebay.be
+channel - eBay, channel_url - https://www.ebay.ca
+channel - eBay, channel_url - https://www.ebay.cn
+channel - eBay, channel_url - https://www.ebay.fr
+channel - eBay, channel_url - https://www.ebay.de
+channel - eBay, channel_url - https://www.ebay.com.hk
+channel - eBay, channel_url - https://www.ebay.com.sg
+channel - eBay, channel_url - https://www.ebay.co.th
+channel - Alibaba, channel_url - 
+channel - Alibaba, channel_url - 
+channel - Amazon Italy, channel_url - 
+channel - Amazon Netherlands, channel_url - 
+channel - Americanas, channel_url - 
+channel - Avenida, channel_url - 
+channel - bidorbuy, channel_url - 
+channel - Bol, channel_url - 
+channel - Casas Bahia, channel_url - 
+channel - eBay Italy, channel_url - 
+channel - eBay Netherlands, channel_url - 
+channel - Extra, channel_url - 
+channel - flubit, channel_url - 
+channel - fyndiq, channel_url - 
+channel - Game, channel_url - 
+channel - Groupon, channel_url - 
+channel - Jumia, channel_url - 
+channel - Konga, channel_url - 
+channel - LetsTango, channel_url - 
+channel - Linio Argentina, channel_url - 
+channel - Liverpool, channel_url - 
+channel - Mercado Libre Argentina, channel_url - 
+channel - Mercado Libre Brazil, channel_url - 
+channel - Mercado Libre Mexico, channel_url - 
+channel - Mumzworld, channel_url - 
+channel - Not on the highstreet, channel_url - 
+channel - Okazii, channel_url - 
+channel - Otto, channel_url - 
+channel - Rakuten, channel_url - 
+channel - Souq (Amazon.ae), channel_url - 
+channel - Souq KSA (Amazon), channel_url - 
+channel - Submarino, channel_url - 
+channel - Takealot, channel_url - 
+channel - Tchibo, channel_url - 
+channel - trademe, channel_url - 
+channel - Wadi, channel_url - 
+channel - Wal-Mart de Mexico, channel_url - 
+channel - Wehkamp, channel_url - 
+channel - Yandex, channel_url - 
+channel - Yatego, channel_url - 
+channel - Zalando Germany, channel_url - 
+channel - Zalando Italy, channel_url - 
+channel - Zalando Netherlands, channel_url - 
+channel - Zalando UK, channel_url - 
+channel - Zando, channel_url - 
+channel - Bonanza, channel_url - https://www.bonanza.com/
+channel - Bonanza, channel_url - https://www.bonanza.com/
+channel - Bonanza, channel_url - https://www.bonanza.com/
+channel - Bonanza, channel_url - https://www.bonanza.com/
+channel - Bonanza, channel_url - https://www.bonanza.com/
+channel - Cratejoy, channel_url - https://www.cratejoy.com/
+channel - eBay, channel_url - https://www.ebay.be
+channel - eBay, channel_url - https://www.ebay.co.uk
+channel - eBay, channel_url - https://www.ebay.com
+channel - Top Hatter, channel_url - https://tophatter.com
+channel - Amazon, channel_url - https://www.amazon.in
+channel - Snapdeal, channel_url - https://www.snapdeal.com/
+channel - Big Basket, channel_url - None
+channel - Grofers, channel_url - None
+channel - Myntra, channel_url - https://www.myntra.com/
+channel - Amazon, channel_url - https://www.amazon.ae/

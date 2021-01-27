@@ -1,0 +1,66 @@
+name 'a' is not defined 79146
+name 'a' is not defined 79146
+'NoneType' object has no attribute 'group' 79146
+'NoneType' object has no attribute 'group' 79146
+'NoneType' object has no attribute 'group' 79146
+'NoneType' object has no attribute 'group' 79031
+'NoneType' object is not iterable 79173
+'NoneType' object is not iterable 79171
+(2013, 'Lost connection to MySQL server during query') 79031
+(2013, 'Lost connection to MySQL server during query') 76105
+'NoneType' object has no attribute 'group' 76105
+'NoneType' object has no attribute 'group' 76105
+'NoneType' object has no attribute 'group' 76105
+'NoneType' object has no attribute 'group' 76105
+'NoneType' object has no attribute 'group' 76105
+'NoneType' object has no attribute 'group' 76105
+'NoneType' object has no attribute 'group' 76105
+'NoneType' object has no attribute 'group' 76105
+'NoneType' object has no attribute 'group' 76105
+'NoneType' object has no attribute 'group' 76105
+'NoneType' object has no attribute 'group' 76105
+'NoneType' object has no attribute 'group' 76105
+(2013, 'Lost connection to MySQL server during query') 76105
+(2013, 'Lost connection to MySQL server during query') 76105
+(2013, 'Lost connection to MySQL server during query') 76105
+Already closed 76105
+(0, '') 76105
+(2013, 'Lost connection to MySQL server during query ([WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond)') 76105
+(2013, 'Lost connection to MySQL server during query') 76105
+(2013, 'Lost connection to MySQL server during query') 76105
+(2013, 'Lost connection to MySQL server during query') 76105
+(2013, 'Lost connection to MySQL server during query') 79031
+(2013, 'Lost connection to MySQL server during query') 79031
+(2013, 'Lost connection to MySQL server during query') 79031
+(2013, 'Lost connection to MySQL server during query') 79031
+(2013, 'Lost connection to MySQL server during query') 79031
+(2013, 'Lost connection to MySQL server during query') 79031
+(2013, 'Lost connection to MySQL server during query') 79031
+(2013, 'Lost connection to MySQL server during query') 79031
+(2013, 'Lost connection to MySQL server during query') 79031
+(2013, 'Lost connection to MySQL server during query') 79031
+'NoneType' object has no attribute 'group' 79031
+(2013, 'Lost connection to MySQL server during query') 79031
+(2013, 'Lost connection to MySQL server during query') 79031
+(2013, 'Lost connection to MySQL server during query') 79031
+(2013, 'Lost connection to MySQL server during query') 79031
+(2013, 'Lost connection to MySQL server during query') 79031
+'NoneType' object has no attribute 'group' 79031
+(2013, 'Lost connection to MySQL server during query') 79031
+(2013, 'Lost connection to MySQL server during query') 79031
+(2013, 'Lost connection to MySQL server during query') 79031
+'NoneType' object has no attribute 'group' 76105
+'NoneType' object has no attribute 'group' 76105
+'NoneType' object has no attribute 'group' 76105
+unsupported operand type(s) for -: 'float' and 'NoneType' 76105
+unsupported operand type(s) for -: 'float' and 'NoneType' 76105
+unsupported operand type(s) for -: 'float' and 'NoneType' 76105
+unsupported operand type(s) for -: 'float' and 'NoneType' 76105
+unsupported operand type(s) for -: 'float' and 'NoneType' 76105
+(2013, 'Lost connection to MySQL server during query') 79031
+(2013, 'Lost connection to MySQL server during query') 79031
+unsupported operand type(s) for -: 'float' and 'NoneType' 79031
+(2013, 'Lost connection to MySQL server during query') 79031
+(2013, 'Lost connection to MySQL server during query') 79031
+unsupported operand type(s) for -: 'float' and 'NoneType' 79031
+(2003, "Can't connect to MySQL server on '13.233.239.105' ([WinError 10051] A socket operation was attempted to an unreachable network)") 79031
